@@ -1,0 +1,29 @@
+p{
+    color: rgb(9, 9, 36);
+}
+
+h2{
+    color: rgb(235, 229, 153);
+}
+
+h1{
+    color: rgb(241, 218, 140);
+}
+body{
+    background-color: rgb(110, 63, 155);
+}
+.titulo{
+    font-size: large;
+}
+#texto-branco{
+    color: white;
+}
+.top{
+    background-color: rgb(245, 100, 245);
+}
+.conteudo{
+    background-color: rgb(156, 186, 241);
+}
+.rodape{
+    background-color: rgb(250, 120, 146);
+}
